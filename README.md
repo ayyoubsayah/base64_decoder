@@ -22,7 +22,7 @@ Enter the Base64-encoded text: SGVsbG8gQXl5b3ViIQ==
 Decoded text:
 Hello Ayyoub!
 
-```bash
+bash```
 
 **🚀 Why This?**
 Whether you're exploring data encoding, building secure applications, or just getting started with Python, this tool provides a fast and reliable way to decode Base64-encoded text. Its simplicity makes it perfect for both learning and real-world usage.
