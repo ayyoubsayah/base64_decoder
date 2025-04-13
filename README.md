@@ -21,6 +21,7 @@ $ python base64_decoder.py
 Enter the Base64-encoded text: SGVsbG8gQXlvdWIh
 Decoded text:
 Hello Ayoub!
+---
 
 **🚀 Why This?**
 Whether you're exploring data encoding, building secure applications, or just getting started with Python, this tool provides a fast and reliable way to decode Base64-encoded text. Its simplicity makes it perfect for both learning and real-world usage.
