@@ -1,39 +1,52 @@
-# 📁 Base64 Decoder in Python
+# 📁 Base64 Encode/Decode Tool in Python
 
-This Python script allows you to easily decode any Base64-encoded text back into its original, human-readable form. Whether you're working with encoded data or simply experimenting with encryption and encoding, this simple utility can be a handy tool in your developer toolbox.
+A simple yet powerful Python script that allows users to either **encode text into Base64** or **decode Base64 back into plain text** using a friendly command-line interface.
 
 ## 🛠️ Features
 
-- **Simple and Efficient:** Decode Base64 text quickly with just one command.
-- **Error Handling:** Includes basic error handling to ensure smooth decoding, even if the input is not valid.
-- **User-Friendly:** Prompts the user to input the Base64 string, making it accessible for both beginners and experienced developers.
+- 🔄 Two-way functionality: Encode or Decode.
+- 🧠 Beginner-friendly prompts for user input.
+- 🧱 Built-in error handling for invalid Base64 strings.
+- ⚡ Quick and efficient: No external libraries needed.
 
-## 🧑‍💻 Usage
+## 🧑‍💻 How It Works
 
-1. Clone the repository or download the script.
-2. Run the script and input your Base64-encoded string.
-3. View the decoded result in plain text!
+When you run the script, you'll be asked to choose between:
 
-## 🔧 How to Use
+1️⃣ **Encode text to Base64**
+2️⃣ **Decode Base64 to text**
+
+
+Just follow the prompt and input your text accordingly.
+
+## 🧪 Example
+
+### ▶️ Encoding
 
 ```bash
-$ python base64_decoder.py
-Enter the Base64-encoded text: SGVsbG8gQXl5b3ViIQ==
-Decoded text:
+$ python base64_tool.py
+Choose an option (1 or 2): 1
+Enter the text to encode: Hello Ayyoub!
+✅ Encoded Base64:
+SGVsbG8gQXlvdWIh
+```
+
+🔽 **Decoding**
+
+```bash
+$ python base64_tool.py
+Choose an option (1 or 2): 2
+Enter the Base64 text to decode: SGVsbG8gQXlvdWIh
+✅ Decoded text:
 Hello Ayyoub!
 ```
 
+🚀 **Why This?**
+Whether you're learning how Base64 works, working on data security, or simply need a quick tool to encode/decode, this script makes it effortless and fun.
 
-**🚀 Why This?**
+🙌 **Contribute**
+Feel free to fork this project, enhance it, or suggest features. Pull requests are always welcome!
 
-Whether you're exploring data encoding, building secure applications, or just getting started with Python, this tool provides a fast and reliable way to decode Base64-encoded text. Its simplicity makes it perfect for both learning and real-world usage.
-
-**🙌 Contribute**
-
-Feel free to fork this project, improve it, or share it with others who might find it helpful. Contributions, suggestions, and pull requests are always welcome!
-
-**✨ Author**
-
-Made with ❤️ by **Ayyoub**
-
-
+✨ **Author**
+Made with ❤️ by Ayyoub
+Share it, use it, enjoy it!
