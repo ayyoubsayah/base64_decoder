@@ -35,6 +35,5 @@ Feel free to fork this project, improve it, or share it with others who might fi
 **✨ Author**
 
 Made with ❤️ by **Ayyoub**
-Connect with me on GitHub and follow for more simple and useful Python scripts.
 
 
