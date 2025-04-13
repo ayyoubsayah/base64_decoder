@@ -25,13 +25,16 @@ Hello Ayyoub!
 
 
 **🚀 Why This?**
+
 Whether you're exploring data encoding, building secure applications, or just getting started with Python, this tool provides a fast and reliable way to decode Base64-encoded text. Its simplicity makes it perfect for both learning and real-world usage.
 
 **🙌 Contribute**
+
 Feel free to fork this project, improve it, or share it with others who might find it helpful. Contributions, suggestions, and pull requests are always welcome!
 
 **✨ Author**
-Made with ❤️ by Ayyoub
+
+Made with ❤️ by **Ayyoub**
 Connect with me on GitHub and follow for more simple and useful Python scripts.
 
 
