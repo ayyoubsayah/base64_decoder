@@ -22,8 +22,3 @@ Enter the Base64-encoded text: SGVsbG8gQXlvdWIh
 Decoded text:
 Hello Ayoub!
 
-## 🚀 Why This?
-Whether you're working on a project that deals with encoding, building secure systems, or just diving into Python scripting, this tool offers a quick solution for decoding Base64 data.
-Feel free to fork, modify, and contribute to the project.
-Made with ❤️ by Ayyoub.
-
