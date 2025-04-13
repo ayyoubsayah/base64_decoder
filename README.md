@@ -42,11 +42,14 @@ Hello Ayyoub!
 ```
 
 🚀 **Why This?**
+
 Whether you're learning how Base64 works, working on data security, or simply need a quick tool to encode/decode, this script makes it effortless and fun.
 
 🙌 **Contribute**
+
 Feel free to fork this project, enhance it, or suggest features. Pull requests are always welcome!
 
 ✨ **Author**
-Made with ❤️ by Ayyoub
+
+Made with ❤️ by **Ayyoub**
 Share it, use it, enjoy it!
