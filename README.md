@@ -41,15 +41,15 @@ Enter the Base64 text to decode: SGVsbG8gQXlvdWIh
 Hello Ayyoub!
 ```
 
-🚀 ## Why This?
+**🚀Why This?**
 
 Whether you're learning how Base64 works, working on data security, or simply need a quick tool to encode/decode, this script makes it effortless and fun.
 
-🙌 **Contribute**
+**🙌 Contribute**
 
 Feel free to fork this project, enhance it, or suggest features. Pull requests are always welcome!
 
-✨ **Author**
+**✨ Author**
 
 Made with ❤️ by **Ayyoub**
 Share it, use it, enjoy it!
