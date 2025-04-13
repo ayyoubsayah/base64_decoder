@@ -18,6 +18,19 @@ This Python script allows you to easily decode any Base64-encoded text back into
 
 ```bash
 $ python base64_decoder.py
-Enter the Base64-encoded text: SGVsbG8gQXlvdWIh
+Enter the Base64-encoded text: SGVsbG8gQXl5b3ViIQ==
 Decoded text:
-Hello Ayoub!
+Hello Ayyoub!
+```bash
+
+**🚀 Why This?**
+Whether you're exploring data encoding, building secure applications, or just getting started with Python, this tool provides a fast and reliable way to decode Base64-encoded text. Its simplicity makes it perfect for both learning and real-world usage.
+
+**🙌 Contribute**
+Feel free to fork this project, improve it, or share it with others who might find it helpful. Contributions, suggestions, and pull requests are always welcome!
+
+**✨ Author**
+Made with ❤️ by Ayyoub
+Connect with me on GitHub and follow for more simple and useful Python scripts.
+
+
